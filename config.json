@@ -1,0 +1,8 @@
+{
+  "file": "input.txt",
+  "target_lang": "es",
+  "output": "screen",
+  "max_chars": 1000,
+  "max_words": 200,
+  "max_sentences": 10
+}
